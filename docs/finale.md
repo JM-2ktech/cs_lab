@@ -50,7 +50,7 @@ nav_order: 10
 
 **지침은 부탁이고 절차는 강제다.** [Lab 1](./lab1.html)에서 지침이 안 지켜지는 것을 봤고, [Lab 6](./lab6.html)에서 흐름으로 조건과 순서를 정해 두었습니다.
 
-**길이는 곧 비용이다.** 토큰과 [Copilot Credit](./glossary.html#copilot-credit)의 관계는 [참고 페이지](./reference-inside-the-agent.html)에 있습니다.
+**길이는 곧 비용이다.** 토큰과 [Copilot Credit](./glossary.html#copilot-credit)의 관계는 [부록 「에이전트 안에서 일어나는 일」](./appendix/inside-the-agent.html)에 있습니다.
 
 ## 오늘 안 한 것
 
