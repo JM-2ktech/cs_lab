@@ -1,7 +1,7 @@
 ---
 title: 채널로 내보내기 — M365 Copilot · Teams
 parent: 부록
-nav_order: 4
+nav_order: 5
 ---
 
 # 채널로 내보내기 — M365 Copilot · Teams 📣
