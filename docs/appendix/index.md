@@ -19,8 +19,7 @@ has_children: true
 | 부록 | 분 | 먼저 해야 하는 것 | 무엇을 보나 |
 |---|---|---|---|
 | [내 에이전트를 Copilot Studio로 가져가기](./to-copilot-studio.html) | 10 | [Lab 1](../lab1.html) | 같은 에이전트가 도구를 바꾸면 무엇이 달라지는가 |
-| [채널로 내보내기 — M365 Copilot · Teams](./channel.html) | 20 | [Lab 2](../lab2.html) | 스튜디오 밖에서 열어 보기. 추천 프롬프트가 보이는 자리 |
-| [에이전트가 에이전트를 부른다](./connected-agent.html) | 25 | [Lab 2](../lab2.html)·[Lab 3](../lab3.html)·[Lab 6](../lab6.html) | 두 에이전트를 도구처럼 부르고, 설명 하나로 경로를 바꾸기 |
+| [에이전트가 에이전트를 부른다](./connected-agent.html) | 30 | [Lab 2](../lab2.html)·[Lab 3](../lab3.html)·[Lab 6](../lab6.html) | 두 에이전트를 도구처럼 부르고, 설명 하나로 경로를 바꾸기 |
 
 ### 왜 그런지 이해한다
 

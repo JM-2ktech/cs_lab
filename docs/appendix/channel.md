@@ -2,7 +2,16 @@
 title: 채널로 내보내기 — M365 Copilot · Teams
 parent: 부록
 nav_order: 5
+published: false
 ---
+
+<!-- 2026-08-20: 「단계」 절이 비어 있어 **사이트에서 내렸다.**
+     ⚠️ `nav_exclude: true` 는 **자식 페이지(parent 있는 문서)에 먹지 않는다** —
+        just-the-docs 0.12에서 넣어 봤지만 부록 하위 목록에 그대로 남았다.
+        그래서 `published: false` 로 갔다. 페이지 자체가 렌더되지 않는다.
+     되돌리는 법 — 이 줄을 `nav_order: 5` 뒤에서 지우고,
+     `docs/appendix/index.md` 「제품을 더 만져 본다」 표에 아래 행을 되살린다.
+     | [채널로 내보내기 — M365 Copilot · Teams](./channel.html) | 20 | [Lab 2](../lab2.html) | 스튜디오 밖에서 열어 보기. 추천 프롬프트가 보이는 자리 | -->
 
 # 채널로 내보내기 — M365 Copilot · Teams 📣
 
