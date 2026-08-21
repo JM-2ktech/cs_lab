@@ -73,3 +73,9 @@ nav_order: 10
 - ④ [Lab 5](./lab5.html) 24번과 [Lab 6](./lab6.html) 29번의 Excel 화면이 왜 다른지 말할 수 있다
 - ⑤ 맡겨도 되는 자리와 정해 둬야 하는 자리를 각각 하나씩 들 수 있다
 {: .checklist }
+
+---
+
+여기까지입니다. 마지막으로 의견을 남겨 주세요.
+
+[설문 남기기 →](./survey.html){: .btn .btn-purple }
